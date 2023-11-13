@@ -1,0 +1,7 @@
+numpy
+pytorch
+hamiltorch
+matplotlib
+sciket-learn
+streamlit
+seaborn
