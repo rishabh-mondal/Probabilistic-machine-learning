@@ -1,6 +1,6 @@
 numpy
 pytorch
 matplotlib
-sciket-learn
+scikit-learn
 streamlit
 seaborn
